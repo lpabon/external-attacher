@@ -1,7 +1,7 @@
 #!/bin/sh
 
 NAME=csi-attacher
-TAG=canary
+TAG=v0.2.0
 CONTAINER=quay.io/k8scsi/${NAME}:${TAG}
 APP=csi-attacher
 
